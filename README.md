@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Fernanda Bertao!
 
 - 🔭 I’m currently working on data analysis
-- 🌱 I’m currently learning SQL
+- 🌱 Platforms: SQL, AWS and ALTERYX
 - 😄 Pronouns: she/her
 
 
